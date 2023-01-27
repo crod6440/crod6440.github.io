@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: center;
+  height: 50px;
+  width: 221px;
+  color: #ffffff;
+  margin-top: 7px;
+  margin-left: 530px;
+}
+
+.header__fondo {
+  height: 727px;
+  width: 1280px;
+  margin-left: 0px;
+  background: transparent url("../images/bg-header.jpg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.rectangle3 {
+  margin-top: 45px;
+  margin-left: 0px;
+  width: 1280px;
+  height: 348px;
+}
+
+.rectangle3__content {
+  font-family: "raleway", sans-serif;
+  color: #ffffff;
+  font-weight: 300;
+  /* margin-top: 876px; */
+  margin-left: 150px;
+  width: 475px;
+  height: 197px;
+  opacity: 1;
+  display: inline-block;
+}
+
+/* .rectangle3__content {
+   margin-left: 731px;
+  width: 399px;
+  height: 237px;
+  display: inline-block;
+} */
+
+.rectangle3__content img {
+  width: 399px;
+  height: 237 px;
+}
+
+/* .rectangle7__content-parrafo {
+  font-family: "raleway", sans-serif;
+  height: 50px;
+  color: #ffffff;
+} */
+
+.rectangle7__content {
+  background-color: #1e1a13;
+  text-align: center;
+  height: 100px;
+}
+
+.rectangle7 {
+  background: #1e1a13 0% 0% no-repeat padding-box;
+  opacity: 0.98;
+  color: #ffffff;
+  padding-top: 75px;
+}
+
+.subtitulo {
+  font-family: "raleway", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  height: 47px;
+  top: 1141px;
+  left: 0px;
+  width: 1280px;
+}
+
+.rectangle7_content-icon {
+  display: inline-block;
+  margin: 15px 100px;
+}
+
+rectangle7__content-parrafo {
+  font-family: "raleway", sans-serif;
+  letter-spacing: 0px;
+  font-size: 25px;
+  font-weight: 300;
+  height: 30px;
+  opacity: 1;
+  margin-top: 17px;
+}
+
+.far fa-eye fa-2xl {
+  margin-bottom: 17px;
+}
+
+.rectangle5 {
+  width: 1280px;
+  height: 348px;
+  text-align: center;
+}
+
+.rectangle5_content-icon {
+  display: inline-block;
+  padding-top: 73px;
+  padding-bottom: 73px;
+  margin-left: 20px;
+}
+
+img {
+  width: 316px;
+  height: 202px;
+}
+
+footer {
+  margin-top: 500px;
+  width: 1280px;
+  padding-top: 39px;
+  padding-bottom: 39px;
+  text-align: center;
+  background-color: #1e1a13 0% 0% no-repeat padding-box;
+  opacity: 0.94;
+  height: 102px;
+}
+
+.link_footer {
+  color: #ffffff;
+  height: 20px;
+  font-family: "raleway", sans-serif;
+  font-weight: 300;
+}
