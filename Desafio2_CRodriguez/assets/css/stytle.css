@@ -2,7 +2,7 @@
   height: 5em;
   padding: 3em;
   font-size: 2em;
-  background-image: url("/assets/images/FONDO.jpg");
+  background-image: url("../images/FONDO.jpg");
   background-size: cover;
   background-position: center;
   color: white;
